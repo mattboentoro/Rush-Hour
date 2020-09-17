@@ -7,4 +7,12 @@ Your assignment is to use Python to write a program called rushhour which employ
 ```
 ["--B---","--B---","XXB---","--AA--","------","------"]
 ```
-The first stringcorresponds to the top row, the second stringcorresponds to the next row down, and so on.  If this list were formatted nicely, it would look more like the grid above:["--B---","--B---","XXB---","--AA--","------","------"]
+The first string corresponds to the top row, the second string corresponds to the next row down, and so on. If this list were formatted nicely, it would look more like the grid above:
+```
+["--B---",
+ "--B---",
+ "XXB---",
+ "--AA--",
+ "------",
+ "------"]
+```
